@@ -1,0 +1,5 @@
+Write the query to count the number of rows in a table. We will use the COUNT()
+
+SELECT COUNT(*) AS row_count
+FROM table_name;
+
